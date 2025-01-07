@@ -32,4 +32,4 @@ For inquiries or collaborations, you can reach out to us:
 If you find this repository helpful, feel free to star the repo or share it with others. Contributions are always welcome to improve our services and projects!
 
 ---
-**Thank you for visiting Markmix Studios' repository. Let's innovate and grow together!**
+**Thank you for visiting Markmix Studios repository. Let's innovate and grow together!**
